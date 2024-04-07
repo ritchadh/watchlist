@@ -1,0 +1,8 @@
+flask==2.2.2
+gunicorn
+python-dotenv
+pymongo[srv,ocsp]==4.3.2
+black
+flake8
+flask-wtf[email]
+passlib
